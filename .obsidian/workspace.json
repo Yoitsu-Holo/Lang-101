@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "35680278b9b43090",
+    "type": "split",
+    "children": [
+      {
+        "id": "05821af4f480939c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8d6ed79f50e17c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d775477161f81ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b8e183bdff10647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7464b1f9c545bfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae14d08dc242a349",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78259f0d116833d7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b188756801f9432f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "7b600b1c008512c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e81a8c2828e001d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e329c7c5c3847a80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data-week3/-22f216a640b32156_edit_5067927013288.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ed72a24696b2ecc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data-week3/-22f216a640b32156_edit_5067927013288.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d31a8df59a48861",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd7c166bf5ed852f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data-week3/-22f216a640b32156_edit_5067927013288.jpg"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a7464b1f9c545bfa",
+  "lastOpenFiles": [
+    "11周：数学.md",
+    "Data-week3",
+    "6周：代码封装：函数.md",
+    "4周：数据的重复：数组.md",
+    "5周：数据的组合：结构体.md",
+    "0周：课程介绍.md",
+    "工具.md",
+    "Data-week6/10-递归.gif",
+    "Data-week6/7190ba3160256f96.jpg",
+    "2周：基本数据类型与运算优先级.md",
+    "Data-week0/Pasted image 20220826183503.png",
+    "3周：程序逻辑和三种执行流程.md"
+  ]
+}

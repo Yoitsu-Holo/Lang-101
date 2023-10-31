@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "35680278b9b43090",
+    "type": "split",
+    "children": [
+      {
+        "id": "c762cab129e229bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0周：课程介绍.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d775477161f81ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b8e183bdff10647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7464b1f9c545bfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae14d08dc242a349",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78259f0d116833d7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "7b600b1c008512c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e81a8c2828e001d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e329c7c5c3847a80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0周：课程介绍.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ed72a24696b2ecc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0周：课程介绍.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d31a8df59a48861",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd7c166bf5ed852f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0周：课程介绍.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5,
+    "collapsed": true
+  },
+  "active": "c762cab129e229bd",
+  "lastOpenFiles": [
+    "工具.md",
+    "6周：代码封装：函数.md",
+    "Data-week6/10-递归.gif",
+    "Data-week6/7190ba3160256f96.jpg",
+    "5周：数据的组合：结构体.md",
+    "4周：数据的重复：数组.md",
+    "2周：基本数据类型与运算优先级.md",
+    "0周：课程介绍.md",
+    "Data-week0/Pasted image 20220826183503.png",
+    "3周：程序逻辑和三种执行流程.md"
+  ]
+}
